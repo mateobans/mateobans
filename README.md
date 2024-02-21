@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mateobans
-- 🎓 I study at the ENS Rennes 
+- 🎓 I study at the ENS Rennes, France
 - 👀 I’m interested in science, 
 - 🌱 I’m currently learning mecatronic
 - 📫 How to reach me : bansard.mateo@gmail.com
